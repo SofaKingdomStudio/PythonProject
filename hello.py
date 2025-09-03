@@ -4,5 +4,7 @@ def greet():
 
 def main():
     greet()
+    print("Woot we did it!")
 
 main()
+
